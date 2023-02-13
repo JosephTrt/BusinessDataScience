@@ -8,3 +8,4 @@ Repositorio destinado al alojamiento de diversos proyectos de Data Science aplic
 ---
 ## Índice de proyectos:
 * [RRHH](Proyecto_RecursosHumanos/Proyecto_RecursosHumanos.ipynb)
+* [Marketing](Proyecto_Marketing/Proyecto_Marketing.ipynb)
